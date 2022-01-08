@@ -1,6 +1,5 @@
 
-
-https://user-images.githubusercontent.com/84482670/148626961-d3a80c83-2ac0-49c8-8ddd-32941d4de9bd.mp4
+![](https://github.com/Leon-Is-Bad-At-Coding/RANSAC/blob/main/output_video.gif?raw=true)
 
 
 
