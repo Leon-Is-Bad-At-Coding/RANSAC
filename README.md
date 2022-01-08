@@ -21,4 +21,4 @@ A frame contains a blink if there is a large variation in the pupil radius. To f
 
 
 
-![plot](https://user-images.githubusercontent.com/84482670/148630349-975058e5-28ba-41d5-95e1-ca2b3de14b4f.png)
+![detected radius](https://user-images.githubusercontent.com/84482670/148630422-f63b0b39-c62c-4cfc-b26d-f21599b032c2.png)
