@@ -20,4 +20,5 @@ You can use RANSAC on any models that can be estimated with a random sampling of
 A frame contains a blink if there is a large variation in the pupil radius. To filter out blinks, you can plot a graph of pupil radius as a function of frame number and remove frames in which there is a spike.
 
 
-![download](https://user-images.githubusercontent.com/84482670/148630328-2472099e-dd8b-44b3-b598-a8b1d74f3aa7.png)
+
+![plot](https://user-images.githubusercontent.com/84482670/148630349-975058e5-28ba-41d5-95e1-ca2b3de14b4f.png)
